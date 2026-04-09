@@ -3,10 +3,10 @@
 // ============================================================
 function checkPassword() {
   const val = document.getElementById('passwordInput').value.trim();
-  if (val === 'ILoveYou') {
+  if (val === 'kharachiloveyou') {
     window.location.href = 'home.html';
   } else {
-    window.location.href = 'https://www.google.com';
+    window.location.href = 'https://www.google.com/imgres?q=miakhalifa&imgurl=https%3A%2F%2Fs.yimg.com%2Fny%2Fapi%2Fres%2F1.2%2FTmZAyqTQYCf_1YDbL618EQ--%2FYXBwaWQ9aGlnaGxhbmRlcjt3PTE1MzY7aD0yMDQ4O2NmPXdlYnA-%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwhere_is_the_buzz_814%2F97f67efe728cb059ab0f897cac7ac140&imgrefurl=https%3A%2F%2Fwww.yahoo.com%2Fentertainment%2Farticles%2Fmia-khalifa-lauryn-hill-internet-071330994.html&docid=8xAZvfllj7udcM&tbnid=Y7nyc7EABsgnAM&vet=12ahUKEwibueTEnuGTAxXbb_UHHbzjOtEQnPAOegQIExAB..i&w=768&h=1024&hcb=2&ved=2ahUKEwibueTEnuGTAxXbb_UHHbzjOtEQnPAOegQIExAB';
   }
 }
 
